@@ -1,0 +1,14 @@
+C:\Users\julio\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+C:\Users\julio\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+C:\Users\julio\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+C:\Users\julio\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+C:\Users\julio\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+C:\Users\julio\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
